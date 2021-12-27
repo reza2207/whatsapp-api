@@ -20,6 +20,11 @@ The module is now available on npm! `npm i whatsapp-web.js`
 
 Please note that Node v12+ is required.
 
+## Required
+* nodemon
+* socket.io
+* qrcode
+
 ## Example usage
 
 ```js
